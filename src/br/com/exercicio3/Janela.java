@@ -24,8 +24,8 @@ public class Janela extends JFrame implements ActionListener {
 
     JTextField txtNome = new JTextField();
     JTextField txtEmail = new JTextField();
-    txtNome.setBounds(90, 40, 100, 20);
-    txtEmail.setBounds(90, 80, 100, 20);
+    txtNome.setBounds(90, 40, 200, 20);
+    txtEmail.setBounds(90, 80, 200, 20);
 
     btnOk = new JButton("Ok");
     btnOk.setBounds(90, 120, 50, 20);
